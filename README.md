@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/changsanjiang/SJVideoPlayer.svg)](https://github.com/changsanjiang/SJVideoPlayer/blob/master/LICENSE.md)
 
 ## Installation
-```ruby
+```ruby哈哈
 # Player with default control layer.
 pod 'SJVideoPlayer'
 
